@@ -3,15 +3,16 @@ import json
 import csv
 from google.oauth2 import service_account
 from google.auth.transport.requests import AuthorizedSession
-from config import CLAVE_GOOGLE, HISTORIAL_CSV
 
-# 🔐 Autenticación desde variable de entorno
+# 🟢 Leer el contenido JSON desde la variable de entorno
 credentials_json_str = os.environ['GOOGLE_CREDENTIALS_JSON']
 credentials_info = json.loads(credentials_json_str)
+
 SCOPES = ["https://www.googleapis.com/auth/indexing"]
-credentials = service_account.Credentials.from_service_account_file(CLAVE_GOOGLE, scopes=SCOPES)
+credentials = service_account.Credentials.from_service_account_info(credentials_info, scopes=SCOPES)
 authed_session = AuthorizedSession(credentials)
 
+# ✅ Enviar una URL
 def notify_url(url):
     endpoint = "https://indexing.googleapis.com/v3/urlNotifications:publish"
     payload = {
@@ -26,8 +27,10 @@ def notify_url(url):
         print(f"❌ Error: {url} — {response.text}")
         return False
 
-def guardar_en_historial(urls):
-    with open(HISTORIAL_CSV, "a", newline='', encoding="utf-8") as f:
+# 💾 Guardar en historial CSV
+def guardar_en_historial(urls, csv_file="enviados_a_google.csv"):
+    with open(csv_file, "a", newline='', encoding="utf-8") as f:
         writer = csv.writer(f)
         for url in urls:
             writer.writerow([url])
+

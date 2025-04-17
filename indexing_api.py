@@ -4,6 +4,9 @@ from google.oauth2 import service_account
 from google.auth.transport.requests import AuthorizedSession
 from config import CLAVE_GOOGLE, HISTORIAL_CSV
 
+# 🔐 Autenticación desde variable de entorno
+credentials_json_str = os.environ['GOOGLE_CREDENTIALS_JSON']
+credentials_info = json.loads(credentials_json_str)
 SCOPES = ["https://www.googleapis.com/auth/indexing"]
 credentials = service_account.Credentials.from_service_account_file(CLAVE_GOOGLE, scopes=SCOPES)
 authed_session = AuthorizedSession(credentials)

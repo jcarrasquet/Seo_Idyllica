@@ -16,3 +16,7 @@ def load_historial():
 def select_urls_para_enviar(todas_urls, historial):
     pendientes = list(set(todas_urls) - historial)
     return random.sample(pendientes, min(N_URLS_DIARIAS, len(pendientes)))
+
+def reset_historial():
+    with open(HISTORIAL_CSV, "w", encoding="utf-8") as f:
+        f.write("")

@@ -40,8 +40,8 @@ jobs:
           username: ${{ secrets.EMAIL_USERNAME }}
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: "[SEO Indexing] Informe diario"
-          to: tu-correo@ejemplo.com
-          from: SeoIdyllica <tu-correo@ejemplo.com>
+          to: jcarrasquet@gmail.com
+          from: SeoIdyllica <jcarrasquet@gmail.com>
           body: file://resumen.txt
 
 

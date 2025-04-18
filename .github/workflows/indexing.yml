@@ -34,9 +34,11 @@ jobs:
       - name: Leer resumen para correo
         id: mailout
         run: |
-          echo "content<<EOF" >> $GITHUB_OUTPUT
-          cat resumen.txt >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          {
+            echo "content<<EOF"
+            cat resumen.txt
+            echo "EOF"
+          } | tee -a $GITHUB_OUTPUT
 
       - name: Enviar correo con resumen
         if: always()
@@ -50,3 +52,4 @@ jobs:
           to: tu-correo@ejemplo.com
           from: SeoIdyllica <tu-correo@ejemplo.com>
           body: ${{ steps.mailout.outputs.content }}
+

@@ -31,15 +31,6 @@ jobs:
           GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
         run: python main.py
 
-      - name: Leer resumen para correo
-        id: mailout
-        run: |
-          {
-            echo "content<<EOF"
-            cat resumen.txt
-            echo "EOF"
-          } | tee -a $GITHUB_OUTPUT
-
       - name: Enviar correo con resumen
         if: always()
         uses: dawidd6/action-send-mail@v3
@@ -51,5 +42,6 @@ jobs:
           subject: "[SEO Indexing] Informe diario"
           to: tu-correo@ejemplo.com
           from: SeoIdyllica <tu-correo@ejemplo.com>
-          body: ${{ steps.mailout.outputs.content }}
+          body: file://resumen.txt
+
 

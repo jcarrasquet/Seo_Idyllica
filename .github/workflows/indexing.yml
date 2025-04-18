@@ -2,8 +2,11 @@ name: SEO Indexing
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Ejecutar todos los días a las 03:00 UTC
-  workflow_dispatch:      # Permite ejecutar manualmente desde GitHub
+    - cron: '0 3 * * *'  # Todos los días a las 03:00 UTC
+  workflow_dispatch:      # Permite ejecutarlo manualmente
+
+permissions:
+  contents: write
 
 jobs:
   run-indexing:
@@ -12,8 +15,10 @@ jobs:
     steps:
       - name: Clonar el repositorio
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
-      - name: Instalar Python
+      - name: Configurar Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
@@ -25,3 +30,23 @@ jobs:
         env:
           GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
         run: python main.py
+
+      - name: Leer resumen para correo
+        id: mailout
+        run: |
+          echo "content<<EOF" >> $GITHUB_OUTPUT
+          cat resumen.txt >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Enviar correo con resumen
+        if: always()
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "[SEO Indexing] Informe diario"
+          to: tu-correo@ejemplo.com
+          from: SeoIdyllica <tu-correo@ejemplo.com>
+          body: ${{ steps.mailout.outputs.content }}

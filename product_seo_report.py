@@ -83,7 +83,7 @@ for product, seo in zip(products, seo_data):
     rows.append({
         "Producto": product["name"],
         "URL": product["permalink"],
-        "Descripción": product.get("short_description", ""),
+        "Título SEO": product.get("yoast_head_json", {}).get("title", ""),
         "Meta descripción": product.get("yoast_head_json", {}).get("description", ""),
         "Keywords": ", ".join(seo[1]),
         "Posición media": seo[2],

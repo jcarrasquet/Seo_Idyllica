@@ -10,9 +10,9 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 from email import encoders
+from openpyxl import load_workbook
 import config
 import json
-
 
 # === HEADERS ===
 HEADERS = {
@@ -90,9 +90,22 @@ for product, seo in zip(products, seo_data):
         "CTR (%)": seo[3]
     })
 
+# === Guardar Excel y ajustar columnas ===
 filename = "seo_report_productos.xlsx"
 df = pd.DataFrame(rows)
 df.to_excel(filename, index=False)
+
+# Ajustar automáticamente los anchos de las columnas
+wb = load_workbook(filename)
+ws = wb.active
+
+for column_cells in ws.columns:
+    length = max(len(str(cell.value)) if cell.value is not None else 0 for cell in column_cells)
+    adjusted_width = length + 2
+    col_letter = column_cells[0].column_letter
+    ws.column_dimensions[col_letter].width = adjusted_width
+
+wb.save(filename)
 print("✅ Informe SEO generado.")
 
 # === EMAIL ===

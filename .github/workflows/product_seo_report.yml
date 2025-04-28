@@ -23,8 +23,11 @@ jobs:
 
       - name: Run SEO report
         env:
-          EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+          EMAIL_USERNAME: ${{ secrets.EMAIL_USERNAME }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}  # ✅ este nombre
+
+          env:
+
         run: python product_seo_report.py
 

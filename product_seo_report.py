@@ -38,7 +38,7 @@ def get_all_products():
 # === Search Console ===
 def fetch_seo_data(urls):
     scopes = ["https://www.googleapis.com/auth/webmasters.readonly"]
-    credentials_json_str = os.environ["GOOGLE_CREDENTIALS"]
+    credentials_json_str = os.environ["GOOGLE_CREDENTIALS_JSON"]
     credentials_info = json.loads(credentials_json_str)
     credentials = service_account.Credentials.from_service_account_info(credentials_info, scopes=scopes)
     service = build("searchconsole", "v1", credentials=credentials)

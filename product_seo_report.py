@@ -71,7 +71,7 @@ def fetch_seo_data(urls):
 
 # === MAIN ===
 products = get_all_products()
-product_urls = [p.get("permalink", "") for p in products if "permalink" in p]
+product_urls = [p["permalink"] for p in products]
 seo_data = fetch_seo_data(product_urls)
 
 rows = []

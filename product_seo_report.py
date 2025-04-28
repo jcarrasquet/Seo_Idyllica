@@ -96,7 +96,7 @@ df.to_excel(filename, index=False)
 print("✅ Informe SEO generado.")
 
 # === EMAIL ===
-EMAIL_SENDER = os.getenv("EMAIL_SENDER")
+EMAIL_SENDER = os.getenv("EMAIL_USERNAME")
 EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
 EMAIL_RECIPIENT = EMAIL_SENDER
 

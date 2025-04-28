@@ -1,4 +1,3 @@
-
 import os
 import requests
 import pandas as pd
@@ -11,6 +10,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 from email import encoders
 from openpyxl import load_workbook
+from openpyxl.styles import PatternFill
 import config
 import json
 
@@ -90,15 +90,39 @@ for product, seo in zip(products, seo_data):
         "CTR (%)": seo[3]
     })
 
-# === Guardar Excel y ajustar columnas ===
 filename = "seo_report_productos.xlsx"
 df = pd.DataFrame(rows)
 df.to_excel(filename, index=False)
 
-# Ajustar automáticamente los anchos de las columnas
+# === Formato condicional y ajuste de columnas ===
 wb = load_workbook(filename)
 ws = wb.active
 
+green_fill = PatternFill(start_color="C6EFCE", end_color="C6EFCE", fill_type="solid")
+orange_fill = PatternFill(start_color="FFD966", end_color="FFD966", fill_type="solid")
+
+# Índice de columna de "Posición media"
+position_col_index = None
+for idx, cell in enumerate(ws[1], 1):
+    if cell.value == "Posición media":
+        position_col_index = idx
+        break
+
+# Aplicar formato condicional
+for row in ws.iter_rows(min_row=2, max_row=ws.max_row):
+    position_cell = row[position_col_index - 1]
+    try:
+        position = float(position_cell.value)
+        if position <= 10:
+            for cell in row:
+                cell.fill = green_fill
+        elif 11 <= position <= 20:
+            for cell in row:
+                cell.fill = orange_fill
+    except:
+        continue
+
+# Ajustar anchos
 for column_cells in ws.columns:
     length = max(len(str(cell.value)) if cell.value is not None else 0 for cell in column_cells)
     adjusted_width = length + 2
@@ -106,7 +130,7 @@ for column_cells in ws.columns:
     ws.column_dimensions[col_letter].width = adjusted_width
 
 wb.save(filename)
-print("✅ Informe SEO generado.")
+print("✅ Informe SEO generado con colores y ajuste de columnas.")
 
 # === EMAIL ===
 EMAIL_SENDER = os.getenv("EMAIL_USERNAME")

@@ -82,8 +82,8 @@ rows = []
 for product, seo in zip(products, seo_data):
     rows.append({
         "Producto": product["name"],
-        "URL": product["link"],
-        "Descripción": product.get("excerpt", {}).get("rendered", "").replace("<p>", "").replace("</p>", ""),
+        "URL": product["permalink"],
+        "Descripción": product.get("short_description", ""),
         "Meta descripción": product.get("yoast_head_json", {}).get("description", ""),
         "Keywords": ", ".join(seo[1]),
         "Posición media": seo[2],

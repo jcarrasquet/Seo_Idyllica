@@ -63,7 +63,7 @@ def fetch_seo_data(urls):
             "rowLimit": 10
         }
         try:
-            response = service.searchanalytics().query(siteUrl="sc-domain:idyllica.es", body=body).execute()
+            response = service.searchanalytics().query(siteUrl="https://www.idyllica.es/", body=body).execute()
             rows = response.get("rows", [])
             keywords = [r["keys"][0] for r in rows]
             position = sum([r.get("position", 0) for r in rows]) / len(rows) if rows else ""

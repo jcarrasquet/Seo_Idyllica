@@ -21,11 +21,10 @@ jobs:
       - name: Install dependencies
         run: pip install pandas requests google-api-python-client google-auth openpyxl
 
-      - name: Decode credentials
-        run: echo "$GOOGLE_CREDENTIALS" > seo-idyllica-017e941a4cb1.json
-
       - name: Run SEO report
         env:
           EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}  # 👈 AÑADIDO AQUÍ
         run: python product_seo_report.py
+

@@ -1,14 +1,35 @@
 ✅ Proceso completado
 
-🔢 Total URLs enviadas hoy: 9
+🔢 Total URLs enviadas hoy: 30
 
 🔗 URLs:
-https://www.idyllica.es/?post_type=product&p=9265
-https://www.idyllica.es/tienda/vinos/tintos/les-cousins-linconscient/
-https://www.idyllica.es/tienda/vinos/tintos/lafou-de-batea/
-https://www.idyllica.es/tienda/vinos/blancos/la-peona-2022/
-https://www.idyllica.es/tienda/vinos/tintos/marti-fabra-vinyes-velles/
-https://www.idyllica.es/tienda/vinos/tintos/vina-salceda-crianza/
-https://www.idyllica.es/tienda/gourmet/embutidos/secallona-prima-casa-figols/
-https://www.idyllica.es/tienda/vinos/blancos/quinta-apolonia/
-https://www.idyllica.es/tienda/vinos/tintos/ramon-bilbao-reserva-magnum/
+https://www.idyllica.es/tienda/vinos/tintos/pingus-2013/
+https://www.idyllica.es/tienda/vinos/tintos/lo-petit-de-la-casa/
+https://www.idyllica.es/tienda/vinos/blancos/idoia-blanc/
+https://www.idyllica.es/tienda/vinos/blancos/natureo/
+https://www.idyllica.es/tienda/vinos/martinez-lacuesta-la-sucursal-2020/
+https://www.idyllica.es/tienda/vinos/blancos/terras-gauda/
+https://www.idyllica.es/?post_type=product&p=7286
+https://www.idyllica.es/tienda/vinos/bona-nit-2021/
+https://www.idyllica.es/tienda/vinos/castelo-de-medina-fermentado-en-barrica-2021/
+https://www.idyllica.es/tienda/vinos/blancos/canto-del-grillo/
+https://www.idyllica.es/?post_type=product&p=6708
+https://www.idyllica.es/?post_type=product&p=7218
+https://www.idyllica.es/?post_type=product&p=6876
+https://www.idyllica.es/tienda/vinos/tintos/troballa-arrels-negre-2021/
+https://www.idyllica.es/tienda/vinos/castelo-de-medina-sauvignon-blanc-vs-2021/
+https://www.idyllica.es/tienda/vinos/tintos/chateau-palmer-2014/
+https://www.idyllica.es/tienda/destilados/whisky/jb/
+https://www.idyllica.es/tienda/vinos/tintos/ferrer-bobet/
+https://www.idyllica.es/tienda/espumosos/cava-corpinnat/laieta-rose-gran-reserva-brut-nature/
+https://www.idyllica.es/tienda/vinos/tintos/emilio-moro/
+https://www.idyllica.es/tienda/vinos/tintos/smith-haut-lafitte-grand-cru-classe-2020/
+https://www.idyllica.es/?post_type=product&p=6950
+https://www.idyllica.es/tienda/destilados/brandy-cognac/dartigalongue-reserva/
+https://www.idyllica.es/tienda/vinos/blancos/alyssum-blanc-2023/
+https://www.idyllica.es/tienda/vinos/tintos/chateau-cheval-blanc-1er-grand-cru-classe-a-2020/
+https://www.idyllica.es/tienda/vinos/tintos/les-terrasses-magnum/
+https://www.idyllica.es/?post_type=product&p=7215
+https://www.idyllica.es/tienda/vinos/blancos/castell-dencus-taleia/
+https://www.idyllica.es/tienda/espumosos/cava-corpinnat/parxet-brut-nature/
+https://www.idyllica.es/?post_type=product&p=9281

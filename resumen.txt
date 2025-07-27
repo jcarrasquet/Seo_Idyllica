@@ -1,35 +1,11 @@
 ✅ Proceso completado
 
-🔢 Total URLs enviadas hoy: 30
+🔢 Total URLs enviadas hoy: 6
 
 🔗 URLs:
-https://www.idyllica.es/tienda/espumosos/corpinnat/argent-blanc/
-https://www.idyllica.es/tienda/espumosos/cava/maria-casanovas-glac-rosat-brut-nature/
-https://www.idyllica.es/tienda/espumosos/cava/lancestral-blanc/
-https://www.idyllica.es/tienda/espumosos/cava/reserva-de-lhereu-pedregosa/
-https://www.idyllica.es/tienda/espumosos/cava/rovellats-reserva-cuvee-especial-brut-nature/
-https://www.idyllica.es/tienda/espumosos/cava/pedregosa-blanc-de-millesime/
-https://www.idyllica.es/tienda/espumosos/cava/raventos-i-blanc-gran-reserva-de-la-finca/
-https://www.idyllica.es/tienda/espumosos/cava/capsigrany/
-https://www.idyllica.es/tienda/espumosos/cava/laieta-brut-nature-gran-reserva/
-https://www.idyllica.es/tienda/espumosos/cava/pedregosa-clos-de-blancs/
-https://www.idyllica.es/tienda/espumosos/cava/codorniu-prima-vides/
-https://www.idyllica.es/tienda/espumosos/corpinnat/llopart-leopardi/
-https://www.idyllica.es/tienda/espumosos/cava/pedregosa-gran-cuvee-brut-nature/
-https://www.idyllica.es/tienda/espumosos/cava/celler-kripta-trepat-rosat-reserva-brut/
-https://www.idyllica.es/tienda/espumosos/cava/bertha-lounge/
-https://www.idyllica.es/tienda/espumosos/cava/at-roca-rosat-brut/
-https://www.idyllica.es/tienda/espumosos/cava/amar-brut-nature-reserva/
-https://www.idyllica.es/tienda/espumosos/corpinnat/iii-lustros/
-https://www.idyllica.es/tienda/espumosos/cava/mirgin-exeo-cava-de-paratge-vallcirera/
-https://www.idyllica.es/tienda/vinos/tintos/gratallops-2018/
-https://www.idyllica.es/tienda/espumosos/cava/at-roca-brut-reserva/
-https://www.idyllica.es/tienda/espumosos/cava/bruant-nature/
-https://www.idyllica.es/tienda/espumosos/cava/juve-camps-reserva-de-la-familia-magnum/
-https://www.idyllica.es/tienda/espumosos/cava/amor-brut-reserva-rose/
-https://www.idyllica.es/tienda/espumosos/corpinnat/celler-batlle-gramona-gran-reserva/
-https://www.idyllica.es/tienda/espumosos/cava/rosa-cusine-gran-reserva/
-https://www.idyllica.es/tienda/espumosos/cava/rabetllat-i-vidal-brut-nature/
-https://www.idyllica.es/tienda/espumosos/cava/ancestral-blanc-vinya-martra/
-https://www.idyllica.es/tienda/espumosos/cava/juve-camps-reserva-de-la-familia/
-https://www.idyllica.es/tienda/espumosos/corpinnat/llopart-integral-brut-nature/
+https://www.idyllica.es/tienda/espumosos/cava/pedregosa-petit-cuvee-rosat-brut-nature/
+https://www.idyllica.es/tienda/espumosos/cava/pedregosa-petit-cuvee-brut-nature/
+https://www.idyllica.es/tienda/espumosos/cava/rabetllat-i-vidal-brut-magnum/
+https://www.idyllica.es/tienda/espumosos/cava/raimat-cim-del-turo-brut-nature/
+https://www.idyllica.es/?post_type=product&p=6854
+https://www.idyllica.es/tienda/espumosos/cava/jaume-codorniu-brut/

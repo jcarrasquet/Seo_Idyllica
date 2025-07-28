@@ -1,11 +1,35 @@
 ✅ Proceso completado
 
-🔢 Total URLs enviadas hoy: 6
+🔢 Total URLs enviadas hoy: 30
 
 🔗 URLs:
-https://www.idyllica.es/tienda/espumosos/cava/pedregosa-petit-cuvee-rosat-brut-nature/
-https://www.idyllica.es/tienda/espumosos/cava/pedregosa-petit-cuvee-brut-nature/
-https://www.idyllica.es/tienda/espumosos/cava/rabetllat-i-vidal-brut-magnum/
-https://www.idyllica.es/tienda/espumosos/cava/raimat-cim-del-turo-brut-nature/
-https://www.idyllica.es/?post_type=product&p=6854
-https://www.idyllica.es/tienda/espumosos/cava/jaume-codorniu-brut/
+https://www.idyllica.es/tienda/gourmet/embutidos/sobre-rojo-paleta-joselito-emp-70-gr/
+https://www.idyllica.es/tienda/destilados/vodka/vodka-beluga-noble-russian/
+https://www.idyllica.es/?post_type=product&p=7092
+https://www.idyllica.es/tienda/vinos/blancos/laphrodisiaque-godello/
+https://www.idyllica.es/tienda/vinos/tintos/noval-l-b-v/
+https://www.idyllica.es/tienda/vinos/tintos/el-bosque-2016/
+https://www.idyllica.es/?post_type=product&p=6986
+https://www.idyllica.es/tienda/vinos/tintos/ramon-bilbao-reserva-magnum/
+https://www.idyllica.es/tienda/vinos/tintos/chateau-margaux-2018/
+https://www.idyllica.es/tienda/vinos/tintos/chateau-levangile-2012/
+https://www.idyllica.es/?post_type=product&p=6691
+https://www.idyllica.es/tienda/vinos/tintos/chateau-levangile-2018/
+https://www.idyllica.es/tienda/vinos/tintos/hacienda-monasterio-crianza/
+https://www.idyllica.es/tienda/espumosos/champagne/pommery-brut-royal/
+https://www.idyllica.es/tienda/vinos/tintos/roda-i/
+https://www.idyllica.es/tienda/vinos/tintos/chateau-de-pez/
+https://www.idyllica.es/tienda/espumosos/champagne/leon-beyer-riesling/
+https://www.idyllica.es/?post_type=product&p=6996
+https://www.idyllica.es/tienda/vinos/tintos/chateau-ducru-beaucaillou-2eme-grand-cru-classe-2018/
+https://www.idyllica.es/tienda/vinos/tintos/abadal-mando/
+https://www.idyllica.es/?post_type=product&p=7133
+https://www.idyllica.es/tienda/vinos/tintos/le-petit-mouton-de-mouton-rothschild/
+https://www.idyllica.es/tienda/vinos/blancos/eresma-verdejo-fermentado-en-barrica/
+https://www.idyllica.es/tienda/vinos/tintos/chateau-ausone-2016/
+https://www.idyllica.es/?post_type=product&p=7109
+https://www.idyllica.es/?post_type=product&p=7178
+https://www.idyllica.es/tienda/vinos/tintos/negra-nit/
+https://www.idyllica.es/tienda/gourmet/pasta/spaguetti-al-huevo-omega-3-sandro-desii-emp-500-gr/
+https://www.idyllica.es/tienda/vinos/rosados/la-rosada-2022/
+https://www.idyllica.es/tienda/vinos/martinez-lacuesta-la-sucursal-2020/

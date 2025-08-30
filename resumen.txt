@@ -1,35 +1,20 @@
 ✅ Proceso completado
 
-🔢 Total URLs enviadas hoy: 30
+🔢 Total URLs enviadas hoy: 15
 
 🔗 URLs:
-https://www.idyllica.es/tienda/vinos/tintos/formiga-de-vellut/
-https://www.idyllica.es/tienda/vinos/rosados/abadal-rosat/
-https://www.idyllica.es/tienda/vinos/tintos/12-lunas-garnacha-2024/
-https://www.idyllica.es/tienda/vinos/tintos/jean-leon-vinya-palau/
-https://www.idyllica.es/tienda/destilados/whisky/the-glenrothes-12/
-https://www.idyllica.es/tienda/vinos/blancos/la-charla/
-https://www.idyllica.es/tienda/destilados/ginebra/larios-1866-gran-reserva/
-https://www.idyllica.es/tienda/vinos/tintos/chateau-lafite-rothschild-2018/
-https://www.idyllica.es/tienda/vinos/tintos/lafou-el-sender/
-https://www.idyllica.es/tienda/destilados/ginebra/mascaro-gin-9/
-https://www.idyllica.es/tienda/vinos/tintos/macan-2016/
-https://www.idyllica.es/tienda/aperitivos/vermut/vermut-lacuesta-reserva-acacia/
-https://www.idyllica.es/tienda/vinos/lacuesta-selecto-crianza-2022/
-https://www.idyllica.es/tienda/vinos/tintos/lo-mon/
-https://www.idyllica.es/tienda/vinos/blancos/fonoll-2022/
-https://www.idyllica.es/tienda/vinos/tintos/macan-2015/
-https://www.idyllica.es/tienda/espumosos/champagne/veuve-clicquot-ponsardin-yellow-magnum/
-https://www.idyllica.es/tienda/vinos/tintos/luis-canas-crianza/
-https://www.idyllica.es/tienda/vinos/tintos/vega-sicilia-unico-cosecha-2014/
-https://www.idyllica.es/tienda/vinos/tintos/penfolds-koonunga-hill/
-https://www.idyllica.es/tienda/dulces-y-generosos/alta-alella-dolc-mataro/
-https://www.idyllica.es/tienda/vinos/tintos/dofi-2021/
-https://www.idyllica.es/tienda/vinos/desalcoholizados/codorniu-espumoso-zero-alcohol/
-https://www.idyllica.es/tienda/vinos/tintos/matarromera-crianza/
-https://www.idyllica.es/tienda/espumosos/cava/raimat-cim-del-turo-brut-nature/
-https://www.idyllica.es/tienda/vinos/tintos/kosher-flor-de-primavera-peraj-haabib/
-https://www.idyllica.es/?post_type=product&p=7408
-https://www.idyllica.es/tienda/vinos/tintos/chateau-levangile-2019/
-https://www.idyllica.es/tienda/vinos/tintos/chateau-cheval-blanc-2014/
-https://www.idyllica.es/tienda/vinos/tintos/gaintus-radical-2018/
+https://www.idyllica.es/?post_type=product&p=6989
+https://www.idyllica.es/tienda/vinos/tintos/cruor/
+https://www.idyllica.es/tienda/vinos/blancos/adra-verdejo/
+https://www.idyllica.es/tienda/vinos/tintos/anima-negra-an/
+https://www.idyllica.es/tienda/vinos/tintos/finca-malaveina-magnum/
+https://www.idyllica.es/tienda/vinos/tintos/abadal-franc/
+https://www.idyllica.es/tienda/vinos/blancos/merluzo-blanc-2022/
+https://www.idyllica.es/tienda/vinos/tintos/embruix-de-vall-llach/
+https://www.idyllica.es/tienda/vinos/tintos/chateau-ducru-beaucaillou-2eme-grand-cru-classe-2019/
+https://www.idyllica.es/tienda/vinos/tintos/bruixola/
+https://www.idyllica.es/tienda/vinos/12-volts/
+https://www.idyllica.es/tienda/vinos/tintos/predicador/
+https://www.idyllica.es/tienda/vinos/tintos/artadi-el-pison-2021/
+https://www.idyllica.es/tienda/destilados/grappa-limoncello/grappa-nonino-friulana/
+https://www.idyllica.es/tienda/vinos/tintos/furvus/

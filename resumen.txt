@@ -1,6 +1,35 @@
 ✅ Proceso completado
 
-🔢 Total URLs enviadas hoy: 1
+🔢 Total URLs enviadas hoy: 30
 
 🔗 URLs:
-https://www.idyllica.es/tienda/vinos/tintos/artadi-el-carretil/
+https://www.idyllica.es/?post_type=product&p=7031
+https://www.idyllica.es/tienda/vinos/tintos/camins-del-priorat/
+https://www.idyllica.es/tienda/espumosos/cava/laieta-rose-gran-reserva-brut-nature/
+https://www.idyllica.es/tienda/destilados/brandy-cognac/hennessy-vsop/
+https://www.idyllica.es/tienda/vinos/tintos/cami-pesseroles/
+https://www.idyllica.es/tienda/vinos/rosados/agusti-torello-mata-xv-rosat-xarel-lo-vermell/
+https://www.idyllica.es/tienda/vinos/blancos/conde-de-los-andes-blanco-2019/
+https://www.idyllica.es/?post_type=product&p=6771
+https://www.idyllica.es/tienda/vinos/tintos/artadi-el-pison-2014/
+https://www.idyllica.es/?post_type=product&p=7322
+https://www.idyllica.es/tienda/vinos/blancos/merluzo-blanc-2022/
+https://www.idyllica.es/tienda/vinos/tintos/chateau-pavie-1er-grand-cru-classe-a-2019/
+https://www.idyllica.es/tienda/vinos/tintos/ensayos-capitales-pi-tt-graciano-2022/
+https://www.idyllica.es/tienda/vinos/blancos/rippa-dorii-verdejo-2023/
+https://www.idyllica.es/tienda/destilados/mixer/fever-tree-premium-indian-tonic-water/
+https://www.idyllica.es/?post_type=product&p=7359
+https://www.idyllica.es/tienda/vinos/tintos/chateau-le-pin-2021/
+https://www.idyllica.es/tienda/vinos/tintos/vega-sicilia-unico-cosecha-2011/
+https://www.idyllica.es/tienda/vinos/tintos/bona-nit-vs-2020/
+https://www.idyllica.es/tienda/vinos/rosados/tobelos-rosado-2020/
+https://www.idyllica.es/tienda/vinos/tintos/castell-del-remei-1780/
+https://www.idyllica.es/tienda/vinos/tintos/rippa-dorii-roble-2022/
+https://www.idyllica.es/tienda/vinos/tintos/josep-foraster-crianca/
+https://www.idyllica.es/tienda/vinos/tintos/vega-sicilia-unico-reserva-especial-venta-2020/
+https://www.idyllica.es/tienda/destilados/ron/matusalem-7-anos/
+https://www.idyllica.es/tienda/destilados/ginebra/london-dry-gin-no1/
+https://www.idyllica.es/tienda/vinos/tintos/el-templari/
+https://www.idyllica.es/tienda/vinos/tintos/predicador/
+https://www.idyllica.es/tienda/espumosos/cava/mirgin-opus-cava-de-paratge-vallcirera/
+https://www.idyllica.es/tienda/espumosos/cava/chandon-garden-spritz/

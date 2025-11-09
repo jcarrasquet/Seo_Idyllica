@@ -1,7 +1,35 @@
 ✅ Proceso completado
 
-🔢 Total URLs enviadas hoy: 2
+🔢 Total URLs enviadas hoy: 30
 
 🔗 URLs:
-https://www.idyllica.es/tienda/destilados/vodka/vodka-citadelle-6c/
-https://www.idyllica.es/?post_type=product&p=6996
+https://www.idyllica.es/?post_type=product&p=6865
+https://www.idyllica.es/tienda/vinos/tintos/gratallops-magnum-2018/
+https://www.idyllica.es/tienda/vinos/tintos/pingus-2018/
+https://www.idyllica.es/tienda/vinos/blancos/les-cousins-lantagonique/
+https://www.idyllica.es/tienda/vinos/tintos/chateau-cheval-blanc-1er-grand-cru-classe-a-2020/
+https://www.idyllica.es/?post_type=product&p=7297
+https://www.idyllica.es/tienda/vinos/tintos/le-petit-mouton-de-mouton-rothschild/
+https://www.idyllica.es/?post_type=product&p=7218
+https://www.idyllica.es/?post_type=product&p=6854
+https://www.idyllica.es/?post_type=product&p=7064
+https://www.idyllica.es/tienda/destilados/vodka/belvedere/
+https://www.idyllica.es/?post_type=product&p=7070
+https://www.idyllica.es/?post_type=product&p=7031
+https://www.idyllica.es/tienda/vinos/rosados/muriel-rosado-2022/
+https://www.idyllica.es/tienda/vinos/blancos/dinarells-blanc/
+https://www.idyllica.es/tienda/vinos/blancos/can-sumoi-perfum-2022/
+https://www.idyllica.es/tienda/vinos/tintos/vega-sicilia-unico-reserva-especial-venta-2020/
+https://www.idyllica.es/tienda/vinos/blancos/finca-vinoa-embotellado-tardio/
+https://www.idyllica.es/tienda/vinos/tintos/lindes-de-remelluri/
+https://www.idyllica.es/tienda/vinos/tintos/chateau-de-pez/
+https://www.idyllica.es/tienda/vinos/blancos/afortunado/
+https://www.idyllica.es/tienda/destilados/ron/havana-club-3-anos/
+https://www.idyllica.es/tienda/vinos/rosados/agusti-torello-mata-xv-rosat-xarel-lo-vermell/
+https://www.idyllica.es/tienda/vinos/tintos/celeste-crianza/
+https://www.idyllica.es/tienda/vinos/blancos/parvus-chardonnay/
+https://www.idyllica.es/tienda/vinos/blancos/eresma-2015/
+https://www.idyllica.es/tienda/vinos/tintos/chateau-mouton-rothschild-2012/
+https://www.idyllica.es/tienda/vinos/tintos/pruno/
+https://www.idyllica.es/?post_type=product&p=7272
+https://www.idyllica.es/?post_type=product&p=6986
